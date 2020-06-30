@@ -1,3 +1,3 @@
 $(window).on('load', function(){
-  $('body').addClass('boom')
+  $('body').addClass('working')
 })
