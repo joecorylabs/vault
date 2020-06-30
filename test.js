@@ -1,1 +1,3 @@
-$('body').addClass('boom')
+$(window).on('load', function(){
+  $('body').addClass('boom')
+})
